@@ -24,10 +24,10 @@ script printing each recipe to a PDF using AppleScript!
 This is still pretty rough around the edges, but I'm hoping to make improvements over time.  Make sure to follow the
 steps below carefully each time.
 
-# Prerequisites
+## Prerequisites
 - Mac OS X (probably Big Sur (11.4)+)
 
-# Setup
+## Setup
 1. Requires Safari to allow javascript from Apple Events, but you might want to turn it off when done for security
    - See [this page](safari-applescript-enable.md) for details
 1. Go to http://anylist.com/web in Safari and login
@@ -40,12 +40,12 @@ steps below carefully each time.
    1. Select a directory
    1. Cancel out of all dialogs to get back to the Anylist webpage
 
-# Run
+## Run
 1. Make sure to follow the [Setup](#setup) above
 2. Open script in Script Editor and run it (play button)
    1. If you've never run an AppleScript before, you may have to give permissions
 3. Leave the computer alone while it runs just in case
 
-# Teardown
+## Teardown
 1. Disable javascript from Apple Events in Safari
    - See [this page](safari-applescript-enable.md) for details

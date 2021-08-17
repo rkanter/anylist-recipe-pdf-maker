@@ -26,4 +26,3 @@ of the currently selected recipe.
 
 4. There should now be a "Develop" menu item.  Click it and then "Allow JavaScript from Apple Events":\
    ![](images/allow-javascript.png)
-
