@@ -30,7 +30,7 @@ steps below carefully each time.
 ## Setup
 1. Requires Safari to allow javascript from Apple Events, but you might want to turn it off when done for security
    - See [this page](safari-applescript-enable.md) for details
-1. Go to http://anylist.com/web in Safari and login
+1. Go to https://anylist.com/web in Safari and login
 1. Click "By Name" under "My Recipes" in the "Recipes" page
    1. If you want to print a subset of recipes, feel free to select a different category
 1. Select the first recipe in the list
