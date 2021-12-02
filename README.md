@@ -34,8 +34,9 @@ steps below carefully each time.
 1. Click "By Name" under "My Recipes" in the "Recipes" page
    1. If you want to print a subset of recipes, feel free to select a different category
 1. Select the first recipe in the list
-1. Set print directory (if you did this last time, then it's not necessary to set again - it should remember)
+1. Set print directory and other print settings (if you did this last time, then it's not necessary to set again - it should remember)
    1. Press cmd+p to open the print dialog
+   1. Configure any print settings you want (e.g. "Print headers and footers", etc)
    1. Click "PDF" and select "Save as PDF"
    1. Select a directory
    1. Cancel out of all dialogs to get back to the Anylist webpage
