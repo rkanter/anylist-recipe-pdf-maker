@@ -31,8 +31,8 @@ steps below carefully each time.
 1. Requires Safari to allow javascript from Apple Events, but you might want to turn it off when done for security
    - See [this page](safari-applescript-enable.md) for details
 1. Go to https://anylist.com/web in Safari and login
-1. Click "By Name" under "My Recipes" in the "Recipes" page
-   1. If you want to print a subset of recipes, feel free to select a different category
+1. Click "View All Recipes" on the "Recipes" page
+   1. If you want to print a subset of recipes, feel free to select a different collection
 1. Select the first recipe in the list
 1. Set print directory and other print settings (if you did this last time, then it's not necessary to set again - it should remember)
    1. Press cmd+p to open the print dialog
