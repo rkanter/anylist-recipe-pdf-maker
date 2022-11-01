@@ -5,7 +5,7 @@ An Applescript to automatically create PDFs of your AnyList Recipes
 ---
 
 1. [Overview](#overview)
-2. [Prerequisites](#prerequisites)
+2. [Mac OS X Versions](#mac-os-x-versions)
 3. [Setup](#setup)
 4. [Run](#run)
 5. [Teardown](#teardown)
@@ -24,8 +24,15 @@ script printing each recipe to a PDF using AppleScript!
 This is still pretty rough around the edges, but I'm hoping to make improvements over time.  Make sure to follow the
 steps below carefully each time.
 
-## Prerequisites
-- Mac OS X (probably Big Sur (11.4)+)
+## Mac OS X Versions
+Apple has changed the GUI layouts a bit in some releases of OS X, so I've had to update the AppleScript accordingly.
+To make it easier to maintain, I'm not going to make it support multiple versions (I also don't have a great way to test
+older versions anyway).  So if you need an older version, you can check out the revisions listed below.  That said, you
+also won't get other improvements by going back. I'm not sure how far back it will work either.
+
+- Mac OS X Ventura (13): master
+- Mac OS X Big Sur (11) - Monterey (12): f340ee38b44d3fefea24434acf8f2bf2d7fd54f1
+- Mac OS X ??? - Catalina (10.15): a2f9e5e94900ad2e5ca53c406a45785419afabf1
 
 ## Setup
 1. Requires Safari to allow javascript from Apple Events, but you might want to turn it off when done for security
